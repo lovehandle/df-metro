@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Metro::Application.config.secret_key_base = 'dafc1e622ed6fd1221fe2a152c46cf53878f8ebad5e70c8f504a60910d96654e04343778579ae1c6d94a6aa81999e4003b38400e132a8be85d3fcf0e7645a675'
+DfMetro::Application.config.secret_key_base = 'dafc1e622ed6fd1221fe2a152c46cf53878f8ebad5e70c8f504a60910d96654e04343778579ae1c6d94a6aa81999e4003b38400e132a8be85d3fcf0e7645a675'
